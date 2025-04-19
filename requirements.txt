@@ -6,3 +6,5 @@ langchain-openai
 langchain-ai21
 python-dotenv
 pydantic
+duckduckgo-search
+WikipediaQueryRun
